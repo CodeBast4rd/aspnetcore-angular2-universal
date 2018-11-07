@@ -474,6 +474,10 @@ Contact us at <hello@devhelp.online>, and let's talk about your projects needs.
 
 ----
 
-## Follow me online:
+## Follow him online:
 
 Twitter: [@MarkPieszak](http://twitter.com/MarkPieszak) | Medium: [@MarkPieszak](https://medium.com/@MarkPieszak)
+
+# CodeBastard Here - Goals
+
+I forked this repository to make myself an template with Angular Material 7 on ASP.NET Core 2.1 with VS Code as an IDE with a Compund Launch and Docker support.
